@@ -4,6 +4,10 @@
 
 This is a simple version of fast access[Doodle applet SDK](https://developer.tuya.com/cn/docs/iot/app-development/mini-programs/overview/applet-ecology?id=K9ptacgp94o5d)，[配网插件](https://developer.tuya.com/cn/docs/iot/app-development/mini-programs/tuya-applet-with-web-plugin/distribution-network-plugin?id=K9lq218xn0wn8) and MQTT Of the connection Demo，It's stabilizing at the moment. New features will be updated in the future.
 
+## 效果图（暂定）
+
+<img src="http://m.qpic.cn/psc?/V14c5KJM3lYjtl/45NBuzDIW489QBoVep5mcQoUchu0CjaMiww0iCC5u*TSAAhNAZPy6n.z3WOptZhL.4WL8m6rM*Pi8KRyiKuBIuJOQw8A2TgOJs42KfwUk2k!/b&bo=OARwCAAAAAABF3Q!&rf=viewer_4" >
+
 ## experience
 
 If you need to embed the function of small program distribution network in your own small program, you can access the small program SDK to get your ticket information, then call the small program plug-in to complete the distribution network, and then call the interface to get device information again after the success of the distribution network.
